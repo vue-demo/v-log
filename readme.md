@@ -1,4 +1,4 @@
-### Console.log for Vue
+### Console.log For Vue
 
 ```bash
 import vLog from 'v-log'
@@ -6,7 +6,7 @@ import vLog from 'v-log'
 Vue.use(vLog)
 
 ```
-### Temaplate script
+### Temaplate Script
 ```bash
 vue 1.0+
 ready(){
@@ -24,7 +24,5 @@ mounted(){
 
 ```
 
-### Console
-- <font color="#000">hello</font>
-- <font color="orange">hello</font>
-- <font color="#f0f">hello</font>
+### Font Color
+![color](pic.png)
