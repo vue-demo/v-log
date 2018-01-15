@@ -26,3 +26,8 @@ mounted(){
 
 ### Font Color
 ![color](doc/pic.png)
+
+
+### Bugs URL
+
+> https://github.com/vue-demo/v-log
