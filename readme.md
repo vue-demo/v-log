@@ -25,4 +25,4 @@ mounted(){
 ```
 
 ### Font Color
-![color](pic.png)
+![color](doc/pic.png)
